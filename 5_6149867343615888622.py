@@ -1,5 +1,5 @@
 import os
-print("\033[1;92m [•] PARVEJ  (ROBOT) SYSTEM INSTALL. . . . \033[1;30m")
+print("\033[1;92m [•] ARIYAN OVRO  (ROBOT) SYSTEM INSTALL. . . . \033[1;30m")
 os.system("pkg install espeak")
 print("\033[1;92m   [•] ROBOT INSTALL COMPLETE \033[1;30m")
 os.system('espeak -a 300 "Robot install complete"')
@@ -111,28 +111,28 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-def PARVEJ_programmer():
+def ARIYAN_programmer():
     os.system('clear')
     print(logo)
-    os.system('espeak -a 300 "Walcome To BANGLADESH  PARVEJ CYBER King off PARVEJ WOULD"')
+    os.system('espeak -a 300 "Walcome To BANGLADESH  ARIYAN CYBER King off ARIYAN WOULD"')
     os.system('speak -a 300 "FREE FIRE. PUBGI. TIKTOK. ACCOUNT. Hack. Tools"')
     print("")
     print('\033[38;5;46m   [01] GAME IDZ CLONING')
     print('\033[38;5;46m   [02] CONTACT ME FACEBOOK')
     print('\033[38;5;46m   [03] PYTHON CLASS CHANNEL')
-    NAHID = input('\n\x1b[1;32m   CHOOSE : ')
-    if NAHID == '1':
+    ARIYAN = input('\n\x1b[1;32m   CHOOSE : ')
+    if ARIYAN == '1':
     	os.system('espeak -a 300 "random cloning start"')
-    os.system('xdg-open https://www.facebook.com/profile.php?id=100086442349803')
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100000495157458')
     time.sleep(5)
     nahid_afridy()
-    if NAHID == '2':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100081753736308&mibextid=ZbWKwL')
-        nahid_afridy()
-    if NAHID == '3':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100081753736308&mibextid=ZbWKwL')
-        nahid_afridy()
-    if NAHID == '0': 
+    if ARIYAN == '2':
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100000495157458&mibextid=ZbWKwL')
+        ariyan_afridy()
+    if ARIYAN == '3':
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100000495157458&mibextid=ZbWKwL')
+        ariyan_afridy()
+    if ARIYAN == '0': 
         os.system('exit')
         return None
 
@@ -149,7 +149,7 @@ logo = ("""
  \033[1;91m\033[1;41m\033[1;97m              WELCOME TO ARIYAN TOOLS               \033[;0m\033[1;91m\033[1;92m           
 
 \033[1;92m══════════════════════════════════════════
-\033[1;32m[-] TOOLS TYPE:\033[1;32m PAID
+\033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
 \033[1;32m[-] AUTHOR    :\033[1;32m ARIYAN OVRO
 \033[1;32m[-] GITHUB    :\033[1;32m VOICE-OVRO
 \033[1;32m[-] FACEBOOK  :\033[1;32m 𝐂𝐄𝐎\_________ ;* 3:) ;*ㅤ
@@ -274,7 +274,7 @@ def rcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        brand=random.choice(['EMRAN CYBER','EMRAN-CYBER ','EMRAN CRACK '])
+        brand=random.choice(['ARIYAN CYBER','ARIYAN-CYBER ','ARIYAN CRACK '])
         colr=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         colo=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         emoji=random.choice(['😆','🐸','🙃','😈','🖕','🦅','🦉','🍎','🐝','🦟','🧐','😐','🙂','🤐','♥️','😘','😻','😍','😹','🤣','😂','😭','😁','😜','🤫','😶','🥱','😤','🥵','😇','💋','🙈','🙀','💚','💛','🖤','🤎','💙','💜','🦶','🙆','🌺','🌸','🏵️','🍁','🌼','??','🐍','🦡','✈️','🦛','🦐','🐇','🐮','🐰','🦃','🕸️','🦋','🍒','🍓','🍑','🍊','🥭','🍍','🍌','🌶️','🥥','🐛','🥕','🍗','🍆','🥐','🧀','🍤','🇧🇩','☠️'])
